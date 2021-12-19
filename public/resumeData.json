@@ -1,0 +1,86 @@
+{
+  "main": {
+    "name": "Robert Radoi",
+    "occupation": "Developer",
+    "description": "I eat, sleep and breathe React",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Robert and I loved to be a part of the #PapaFamily",
+    "email": "radoi.robert94@gmail.com",
+    "phone": "+4 0744287741",
+    "address": {
+      "street": "Manole",
+      "city": "Bucharest",
+      "state": "Ilfov",
+      "zip": "51233"
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "http://papareact.com",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UC21d807UqiWEO-jiFhLQ6fA",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/mr.robert",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/robertradoi",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "University of Bucharest",
+        "degree": "Computer engineering",
+        "graduated": "May 2016",
+        "description": "Graduated with First Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "RobertDevComp",
+        "title": "Freelancer",
+        "years": "May 2018 - Present",
+        "description": "Learning React by creating all the clones from Sonny's YouTube channel."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "30%"
+      },
+     
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "Web Development",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Robert is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Andrei"
+      }
+    ]
+  }
+}
