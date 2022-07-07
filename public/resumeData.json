@@ -1,6 +1,6 @@
 {
   "main": {
-    "name": "Robert Radoi",
+    "name": "Robert Radoi Gabriel",
     "occupation": "Developer",
     "description": "I eat, sleep and breathe React",
     "image": "profilepic.jpg",
@@ -56,7 +56,7 @@
         "name": "ReactJs",
         "level": "30%"
       },
-     
+
       {
         "name": "Git",
         "level": "70%"
@@ -72,8 +72,7 @@
     ]
   },
   "portfolio": {
-    "projects": [
-    ]
+    "projects": []
   },
   "testimonials": {
     "testimonials": [
